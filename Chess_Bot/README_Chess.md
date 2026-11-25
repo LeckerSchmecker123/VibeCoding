@@ -72,3 +72,5 @@ zum benutzen erst : open -na "Google Chrome" --args --remote-debugging-port=9222
 dann : cd /Users/lmuth/VSCode/VibeCoding
 javac --release 17 Chess.java
 java Chess
+
+-> muss nochmal schauen gibt nun einen fehler mit dem finden einer datei (hab in ordner verschoben)
