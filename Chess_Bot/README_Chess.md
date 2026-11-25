@@ -49,11 +49,12 @@ die ausführbare Datei `stockfish` aus — nicht die ZIP-Datei.
    Chess.com-Bot. Die deutsche Route `/de/play/computer` und die englische Route
    `/play/computer` werden unterstützt. Safari oder ein anderes, normal gestartetes
    Chrome-Fenster wird nicht erkannt.
-3. Kompiliere und starte die App im Projektordner:
+3. Kompiliere und starte die App aus dem Ordner `VibeCoding`:
 
    ```sh
-   javac --release 17 Chess.java
-   java Chess
+   cd /Users/lmuth/VSCode/VibeCoding
+   javac --release 17 Chess_Bot/Chess.java
+   java Chess_Bot.Chess
    ```
 
 4. Klicke in der App auf **Zugempfehlung starten**. Falls Stockfish nicht automatisch
