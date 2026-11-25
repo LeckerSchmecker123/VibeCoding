@@ -1,7 +1,3 @@
-# VibeCoding
-
-This repository is for random Vibecoding
-
 ## Chess.com-Botpartien: Zugempfehlung
 
 Das Java-Programm liest die Stellung aus einem offenen Chess.com-Computer-Botspiel
